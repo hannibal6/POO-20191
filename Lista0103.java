@@ -12,3 +12,4 @@ class  Lista0103 {
     System.out.println("A media do aluno eh: " + (nota1*2 + nota2*3 + nota3*5)/10);
     }
 }
+ 
