@@ -7,6 +7,6 @@ class  Lista0102 {
 	int anoNascimento;
 	anoNascimento = input.nextInt();
 	
-    System.out.println(2019 - anoNascimento);
+    System.out.println("A idade atual eh: " + 2019 - anoNascimento);
     }
 }
