@@ -9,6 +9,6 @@ class  Lista0103 {
 	nota2 = input.nextInt();
 	nota3 = input.nextInt();
 	
-    System.out.println("A media do alune eh: " + (nota1*2 + nota2*3 + nota3*5)/10);
+    System.out.println("A media do aluno eh: " + (nota1*2 + nota2*3 + nota3*5)/10);
     }
 }
