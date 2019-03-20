@@ -7,6 +7,6 @@ class  Lista01_01 {
 	double velocidade;
 	velocidade = input.nextDouble();
 	
-    System.out.println(velocidade * 3.6 + "km/h");
+    	System.out.println(velocidade * 3.6 + "km/h");
     }
 }
