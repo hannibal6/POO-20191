@@ -23,10 +23,10 @@ class  Lista01_11 {
 				preco = 1.9;
 			}
 			else if (codigo == 20) {
-				preco =  10;
+				preco = 10;
 			}
 			else if (codigo == 30) {
-				preco =   8;
+				preco = 8;
 			}
 			else if (codigo == 50) {
 				preco = 2.5;
