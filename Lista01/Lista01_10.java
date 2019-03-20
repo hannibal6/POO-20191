@@ -6,7 +6,7 @@ class  Lista01_10 {
 		
 		double num = input.nextDouble();
 		
-		int cont = 0;
+		int cont   = 0;
 		
 		while (num >= 1) {
 			num /= 2;
