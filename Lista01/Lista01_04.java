@@ -5,6 +5,7 @@ class  Lista01_04 {
     	Scanner input = new Scanner(System.in);
     		
     	double nota1, nota2, nota3, nota4, media;
+        
     	nota1 = input.nextInt();
     	nota2 = input.nextInt();
     	nota3 = input.nextInt();
