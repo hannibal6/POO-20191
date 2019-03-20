@@ -25,6 +25,7 @@ class  Lista01_09 {
 		//	  	  numImp++;
 		//	  }
 		//}
+		//
 		
 		if (num1 % 2 != num2 % 2) {
 			numImp = (num2 - num1 - 1) / 2;
