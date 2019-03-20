@@ -22,7 +22,7 @@ class  Lista01_08 {
 			soma += num;
 		}
 		
-		System.out.println("Media: " + (soma/10));
+		System.out.println("Media: " + (soma / 10));
 		System.out.println("Maior: " + maior);
 		System.out.println("Menor: " + menor);
 	}
