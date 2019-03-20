@@ -5,6 +5,7 @@ class  Lista01_05 {
 		Scanner input = new Scanner(System.in);
 		
 		int num;
+		
 		num = input.nextInt();
 		
 		if (num == 1) {
@@ -42,6 +43,6 @@ class  Lista01_05 {
 		}
 		else if (num == 12) {
 			System.out.println("Dezembro");
-		}
+		}	
 	}
 }
