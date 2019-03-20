@@ -6,7 +6,6 @@ class  Lista01_07 {
 		
 		int nota = input.nextInt();
 		
-		
 		if (nota < 50) {
 			System.out.println("Insuficiente");
 		}
