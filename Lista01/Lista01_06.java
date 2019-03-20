@@ -5,6 +5,7 @@ class  Lista01_06 {
 		Scanner input = new Scanner(System.in);
 		
 		String nome = input.next();
+		
 		double diasPassados = input.nextDouble();
 		
 		System.out.println("Cliente: " + nome);
